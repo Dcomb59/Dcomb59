@@ -14,6 +14,15 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/>
 
+## 📜 Certifications
+Follow links to verify certifications
+<div>
+<a href="https://www.credly.com/badges/3a0458b7-16d7-4059-947e-4a8ce12a6cdf/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/f2a67101-f58a-40e7-bfa3-6d6429c22682/public_url"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/789b0cbf-6697-4738-9114-3a289485ab70/public_url"><img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+</div>
+<div>
+
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
