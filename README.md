@@ -2,17 +2,18 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
+## Skills
 
-## ⚠️ Vulnerability Management Projects
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Active Directory Security                     | <a href="https://github.com/Dcomb59/Active-Directory-Project-Home-Lab">Active Directory Home Lab</a> |
+| SIEM Implementation and Log Analysis          | |
+| Security Automation with Shuffle SOAR         | |-->
+| Incident Response & Threat Hunting           | |
+| Network Traffic Analysis                      |  |-->
+| Log Analysis and Security Monitoring          | |-->
+| IoT-Based Healthcare Security                 |  |-->
 
-- **[Vulnerability Management Program Implementation](https://github.com/dcomb59/vulnerability-management-program)** 
-- <!--**[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**-->
-  
-## 🚨 Threat Hunting and Security Operations
-
-- <!--**[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**-->
-
-<hr/>
 
 ## 📜 Certifications
 Follow links to verify certifications
